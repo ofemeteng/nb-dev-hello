@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nb-dev-hello"
+  site-url: "https://ofemeteng.github.io/nb-dev-hello"
+  description: ""
+  repo-branch: main
+  repo-url: "https://github.com/ofemeteng/nb-dev-hello"
